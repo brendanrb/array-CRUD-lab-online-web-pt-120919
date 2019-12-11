@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [happy, sad, disappointed, laugh]
+  feelings = [happy, sad, disappointed, laugh]
   
 end
 
